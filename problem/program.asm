@@ -1,4 +1,4 @@
-// COLOCA AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Sofia Henao Bustamante
+// 00044941
+// sofia.henao@upb.edu.co
 
